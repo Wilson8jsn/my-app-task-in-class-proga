@@ -36,6 +36,7 @@ import CharacterStats from './componets/task-3-26-01-2024';
 export default function App() {
   return (
     <div>
+      <h1>Character Stats Form</h1>
       <CharacterStats />
     </div>
   );
